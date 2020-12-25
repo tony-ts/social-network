@@ -1,0 +1,6 @@
+[submodule "sources/social-network-api"]
+	path = sources/social-network-api
+	url = https://github.com/tony-ts/social-network-api.git
+[submodule "sources/social-network-ui"]
+	path = sources/social-network-ui
+	url = https://github.com/tony-ts/social-network-ui.git

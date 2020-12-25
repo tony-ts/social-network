@@ -1,0 +1,4 @@
+.idea
+*.iml
+ajcore*.txt
+sources/target/*
