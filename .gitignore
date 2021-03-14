@@ -2,3 +2,5 @@
 *.iml
 ajcore*.txt
 sources/target/*
+runtime/logs/*
+*.log*
